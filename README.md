@@ -1,1 +1,1 @@
-API for CRUD todos
+API for CRUD todos with GUI via Bootstrap
